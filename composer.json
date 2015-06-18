@@ -5,7 +5,6 @@
 	"license": "MIT",
 	"homepage": "https://optimus.io/en/",
 	"support": {
-        	"email": "support@keycdn.com",
         	"source": "http://www.github.com/keycdn/php-optimus-api"
 	},
 	"require": {
