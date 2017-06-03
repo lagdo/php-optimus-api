@@ -8,6 +8,8 @@
 * @version 0.1
 */
 
+namespace Lagdo\KeyCDN;
+
 class Optimus {
 
     /**
