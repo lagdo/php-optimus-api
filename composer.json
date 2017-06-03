@@ -1,5 +1,5 @@
 {
-	"name": "keycdn/optimus-api",
+	"name": "lagdo/optimus-api",
 	"description": "PHP Library for the Optimus API",
 	"type": "library",
 	"license": "MIT",
