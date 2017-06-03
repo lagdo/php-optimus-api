@@ -14,10 +14,8 @@ Please let us know if you got questions or feedback: [Optimus Support](https://w
 ```php
 <?php
 
-require '/path/to/src/optimus.php';
-
 // create object and pass API license key
-$optimus = new Optimus('<your_license_key>');
+$optimus = new \Lagdo\KeyCDN\Optimus('<your_license_key>');
 
 // optimize image
 $result = $optimus->optimize('/path/to/image.jpg');
